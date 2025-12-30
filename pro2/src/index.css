@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700;800;900&display=swap');
+
+
+:root{
+  --main-color : #cca471 ;
+  --sec-color : #0e1d55 ;
+}
+
+body{
+  background-color: #000;
+  
+}

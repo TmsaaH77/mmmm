@@ -1,0 +1,43 @@
+
+
+
+.VirsetsHome .btn{
+  z-index: 1;
+  background-color: #343435;
+  
+}
+.VirsetsHome .btn::after{
+  content: '';
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  background-color: #cca471;
+  width: 100%;
+  height: 3px;
+  z-index: -1;
+  transition: .3s;
+  
+}
+
+.VirsetsHome .btn:hover::after{
+  height: 100%;
+}
+
+.VirsetsHome .dat{
+    
+    opacity: 0;
+    transition: 1s !important;
+}
+
+
+.VirsetsHome .card:hover .dat{
+    
+    opacity: 1;
+}
+
+.VirsetsHome img{
+    transition: 1.7s;
+}
+.VirsetsHome .card:hover img{
+    transform: scale(1.3);
+}

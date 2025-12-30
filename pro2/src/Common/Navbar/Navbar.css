@@ -1,0 +1,21 @@
+.Navbar nav{
+    z-index: 10;
+}
+.link .dropdown-content{
+    transform: scale(0);
+    transform-origin: top;
+    opacity: 0;
+    
+}
+.link:hover  .dropdown-content{
+    transform: scale(1);
+    opacity: 1;
+    
+}
+
+.Navbar .active{
+    color: #cca471 !important;
+    transition: .3s;
+    
+    
+}

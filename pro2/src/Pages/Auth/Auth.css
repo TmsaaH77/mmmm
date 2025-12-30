@@ -1,0 +1,8 @@
+.Auth .reg{
+backdrop-filter: blur(2px);
+}
+
+.Auth button:disabled{
+    opacity: .5;
+    cursor: not-allowed;
+}

@@ -1,0 +1,12 @@
+.PopularHome .alen::after{
+    content: '';
+    position: absolute;
+    left: -30px;
+    bottom: 0;
+  background-color: #cca471;
+  width: 320px;
+  height: 5px;
+}
+
+
+
