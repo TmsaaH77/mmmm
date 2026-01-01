@@ -1,5 +1,5 @@
 
-import bg from '../../Assets/Timzee_(password_buddha)__archive/Bg2.webp'
+import bg from '../../assets/Timzee_(password_buddha)__archive/Bg2.webp'
 import './RomanHome.css'
 
 
