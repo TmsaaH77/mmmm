@@ -1,10 +1,10 @@
 
-import one from '../../Assets/Timzee_(password_buddha)__archive/one.webp'
-import tow from '../../Assets/Timzee_(password_buddha)__archive/tow.webp'
-import three from '../../Assets/Timzee_(password_buddha)__archive/three.webp'
-import four from '../../Assets/Timzee_(password_buddha)__archive/four.webp'
-import five from '../../Assets/Timzee_(password_buddha)__archive/five.webp'
-import six from '../../Assets/Timzee_(password_buddha)__archive/six.webp'
+import one from '../../assets/Timzee_(password_buddha)__archive/one.webp'
+import tow from '../../assets/Timzee_(password_buddha)__archive/tow.webp'
+import three from '../../assets/Timzee_(password_buddha)__archive/three.webp'
+import four from '../../assets/Timzee_(password_buddha)__archive/four.webp'
+import five from '../../assets/Timzee_(password_buddha)__archive/five.webp'
+import six from '../../assets/Timzee_(password_buddha)__archive/six.webp'
 import { Swiper, SwiperSlide } from 'swiper/react';
 import {  Navigation } from 'swiper/modules';
 import { IoIosArrowForward } from "react-icons/io";
